@@ -84,5 +84,4 @@ and server.R renders the output plot for that city.
 
 ###Directives on how to visualize this Shiny application
 THe shiny application can be viewed on this website
-
 https://shweta.shinyapps.io/Shinyapp
