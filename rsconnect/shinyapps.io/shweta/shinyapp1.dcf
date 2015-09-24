@@ -2,8 +2,8 @@ name: shinyapp1
 account: shweta
 server: shinyapps.io
 appId: 61047
-bundleId: 272079
+bundleId: 272929
 url: https://shweta.shinyapps.io/shinyapp1
-when: 1443021299.27718
+when: 1443106157.79565
 asMultiple: FALSE
 asStatic: FALSE
